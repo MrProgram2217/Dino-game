@@ -1,0 +1,13 @@
+speed of the game
+display width
+display height
+cactus quantity  (dont put more than 34)
+clouds quantity
+props quantity
+height of the jump
+clouds speed
+developer mode (just turn off collisions)
+points to spawn pterodactyl
+max quantity of pterodactyls
+% chance to spawn pterodactyl
+height of the game (bottom indent)
